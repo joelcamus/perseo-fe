@@ -2,7 +2,7 @@
 
 We are working on apiary descriptions for the API methods, that will come soon ...
 
-A description of "plain"" rules can be found at [plain rules](plain_rules.md).
+A description of "plain" rules can be found at [plain rules](plain_rules.md).
 
 Visual Rules are intended to be used by the Portal exclusively, until a new format is developed which will replace the
 old format eventually. So, basically, the DCA's documentation is the reference.
